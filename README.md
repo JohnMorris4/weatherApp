@@ -24,3 +24,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 # weatherApp
+This has a lot of intergration between two seperate API's one is the weather app and the second is the google maps
